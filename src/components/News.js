@@ -232,7 +232,6 @@ export class News extends Component {
         loading:false
       });
       console.log("next : " + this.state.page);
-      
     }
   };
   render() {
